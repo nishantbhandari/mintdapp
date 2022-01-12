@@ -354,15 +354,15 @@ function App() {
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
                         disabled={claimingNft ? 1 : 0}    
-                          onClick={(e) => {alert('FREE Minting Stopped.');}}
+//                           onClick={(e) => {alert('FREE Minting Stopped.');}}
 
-//                         onClick={(e) => {
-//                           e.preventDefault();
-//                           claimNFTs();
-//                           getData();
-//                         }}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          claimNFTs();
+                          getData();
+                        }}
                       >
-                        {claimingNft ? "BUSY" : "BUY"}
+                        {claimingNft ? "BUSY" : "MINT"}
                       </StyledButton>
                     </s.Container>
                   </>
