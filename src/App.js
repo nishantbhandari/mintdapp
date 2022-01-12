@@ -353,7 +353,9 @@ function App() {
                     <s.SpacerSmall />
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
-                        disabled={claimingNft ? 1 : 0}
+                        disabled={claimingNft ? 1 : 0}    
+                          onClick={(e) => {alert('stopped');}}
+
 //                         onClick={(e) => {
 //                           e.preventDefault();
 //                           claimNFTs();
