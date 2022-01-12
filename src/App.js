@@ -354,7 +354,7 @@ function App() {
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
                         disabled={claimingNft ? 1 : 0}    
-                          onClick={(e) => {alert('stopped');}}
+                          onClick={(e) => {alert('FREE Minting Stopped.');}}
 
 //                         onClick={(e) => {
 //                           e.preventDefault();
