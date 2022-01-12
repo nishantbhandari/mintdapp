@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x55bBDb235346f088337291B94370BB413efF03Bf",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x55bBDb235346f088337291B94370BB413efF03Bf",
+  "CONTRACT_ADDRESS": "0x620e8232f72F347b98B750160A05Ea7bCbf5feA0",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x620e8232f72F347b98B750160A05Ea7bCbf5feA0",
   "NETWORK": {
     "NAME": "rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Baby Monk",
-  "SYMBOL": "BM",
-  "MAX_SUPPLY": 7777,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "NFT_NAME": "the ape frens",
+  "SYMBOL": "taf",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
