@@ -279,9 +279,9 @@ function App() {
     <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
- First 500 NFTs can be minted for FREE . MAX 1 NFT per address
- <s.SpacerSmall />
-                   Rest can be minted for 0.02. MAX 10 NFTs per address
+ FIRST 500 - FREE + Gas (MAX 1 NFT per Wallet)
+<s.SpacerSmall />
+                   Rest - 0.02 ETH +GAS (MAX 10 NFTs per address)
                     </s.TextDescription>
                   
              
