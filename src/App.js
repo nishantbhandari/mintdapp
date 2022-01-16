@@ -275,6 +275,7 @@ function App() {
                 >
                   Excluding gas fees. 
                     </s.TextDescription>
+<s.SpacerSmall />
     <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
