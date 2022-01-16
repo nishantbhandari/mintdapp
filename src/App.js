@@ -273,7 +273,10 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  Excluding gas fees. 
+                   First 500 NFTs can be minted for FREE . MAX 1 NFT per address
+                   Rest can be minted for 0.02. MAX 10 NFTs per address
+             
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
