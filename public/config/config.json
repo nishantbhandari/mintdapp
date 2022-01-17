@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x2F6E89917b98792B30117b0F932Dd07395c97857",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2F6E89917b98792B30117b0F932Dd07395c97857",
   "NETWORK": {
-    "NAME": "rinkeby",
+    "NAME": "polygon",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 137
   },
   "NFT_NAME": "the ape frens",
   "SYMBOL": "ape fren",
