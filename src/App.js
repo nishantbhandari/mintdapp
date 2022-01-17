@@ -405,7 +405,7 @@ function App() {
             Please make sure you are connected to the right network (
             {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
             Once you make the purchase, you cannot undo this action.
-            Please Do not try to mint more than 10 NFTs per wallet. We are not liable for failed transaction fees.
+            Please Do not try to mint more NFTs than the limit per wallet. We are not liable for failed transaction fees. (1 NFT/Wallet for 1st FREE 500 NFTs & 10 NFT/Wallet for Rest of the collection at 0.02ETH each.)
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
