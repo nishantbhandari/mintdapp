@@ -163,10 +163,10 @@ function App() {
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
     // changed from 10 to 1  , change it to 10 after 500th mint
-    if (newMintAmount > 1) {
+    if (newMintAmount > 10) {
           // changed from 10 to 1 , change it to 10 after 500th mint 
 
-      newMintAmount = 1;
+      newMintAmount = 10;
     }
     setMintAmount(newMintAmount);
   };
