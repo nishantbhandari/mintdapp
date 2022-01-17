@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x45f9695e34E87D1D388a3792E1ce59dE80409a89",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x45f9695e34E87D1D388a3792E1ce59dE80409a89",
+  "CONTRACT_ADDRESS": "0x00000",
+  "SCAN_LINK": "",
   "NETWORK": {
-    "NAME": "Mumbai",
+    "NAME": "mainnet",
     "SYMBOL": "ETH",
-    "ID": 80001
+    "ID": 1
   },
   "NFT_NAME": "the ape frens",
   "SYMBOL": "ape fren",
   "MAX_SUPPLY": 7777,
-  "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0.02,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/",
