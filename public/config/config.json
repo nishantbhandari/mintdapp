@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "xx",
-  "SCAN_LINK": "https://etherscan.io/address/",
+  "CONTRACT_ADDRESS": "0x8E04B34166612e73E8f8b7d7a5ddb6Ea2895b4b5",
+  "SCAN_LINK": "https://etherscan.io/address/0x8E04B34166612e73E8f8b7d7a5ddb6Ea2895b4b5",
   "NETWORK": {
     "NAME": "mainnet",
     "SYMBOL": "ETH",
