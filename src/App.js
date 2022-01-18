@@ -245,8 +245,9 @@ function App() {
               </StyledLink>
             </s.TextDescription>
             <s.SpacerSmall />
-                 //CONFIG.MAX_SUPPLY
-            {Number(data.totalSupply) >= 158 ? (
+                
+            { //CONFIG.MAX_SUPPLY
+                 Number(data.totalSupply) >= 500 ? (
               <>
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
