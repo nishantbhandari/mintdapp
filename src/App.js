@@ -163,10 +163,10 @@ function App() {
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
     // changed from 10 to 1  , change it to 10 after 500th mint
-    if (newMintAmount > 1) {
+    if (newMintAmount > 10) {
           // changed from 10 to 1 , change it to 10 after 500th mint 
 
-      newMintAmount = 1;
+      newMintAmount = 10;
     }
     setMintAmount(newMintAmount);
   };
@@ -282,7 +282,7 @@ function App() {
     <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
- FIRST 500 - FREE + Gas (MAX 1 NFT per Wallet)
+ FIRST 500 - FREE + Gas (MAX 10 NFTs per Wallet)
 <s.SpacerSmall />
                    Rest - 0.02 ETH +GAS (MAX 10 NFTs per address)
                     </s.TextDescription>
@@ -408,7 +408,7 @@ function App() {
             Please make sure you are connected to the right network (
             {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
             Once you make the purchase, you cannot undo this action.
-            Please Do not try to mint more NFTs than the limit per wallet. We are not liable for failed transaction fees. (1 NFT/Wallet for 1st FREE 500 NFTs & 10 NFT/Wallet for Rest of the collection at 0.02ETH each.)
+            Please Do not try to mint more NFTs than the limit per wallet. We are not liable for failed transaction fees (10 NFT/Wallet for at 0.02ETH each.)
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
