@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 7777,
   "WEI_COST": 0,
   "DISPLAY_COST": 0.00,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 111282,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/theapefrens",
   "SHOW_BACKGROUND": true
