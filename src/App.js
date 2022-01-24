@@ -283,8 +283,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
  
-<s.SpacerSmall />
-                   COST:  0.02 ETH +GAS (MAX 10 NFTs per address)
+                   MAX 10 NFTs per wallet
                     </s.TextDescription>
                   
              
