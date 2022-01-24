@@ -247,7 +247,7 @@ function App() {
             <s.SpacerSmall />
                 
             { //CONFIG.MAX_SUPPLY
-                 Number(data.totalSupply) >= 500 ? (
+                 Number(data.totalSupply) >= CONFIG.MAX_SUPPLY ? (
               <>
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
