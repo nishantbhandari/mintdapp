@@ -252,12 +252,12 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  The FREE sale has ended.
+                  The Sale has ended.
                 </s.TextTitle>
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Wait for the public sale 
+                Check on Opensea : 
                 </s.TextDescription>
                 <s.SpacerSmall />
                 <StyledLink target={"_blank"} href={CONFIG.MARKETPLACE_LINK}>
@@ -282,9 +282,9 @@ function App() {
     <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
- FIRST 500 - FREE + Gas (MAX 10 NFTs per Wallet)
+ 
 <s.SpacerSmall />
-                   Rest - 0.02 ETH +GAS (MAX 10 NFTs per address)
+                   COST:  0.02 ETH +GAS (MAX 10 NFTs per address)
                     </s.TextDescription>
                   
              
