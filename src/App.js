@@ -400,10 +400,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
-            Please Do not try to mint more NFTs than the limit per wallet. We are not liable for failed transaction fees (10 NFT/Wallet for at 0.02ETH each.)
+ 7777 Half Face mfers burned doing mfer shit. derivative of @sartoshi_nft's mfers. *NOT AFFILIATED*  Donating 30% funds to mfers treasury. Hodlers of the NFT will get access to future projects for FREE.
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
@@ -412,9 +409,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+           You a mfer yet? 
           </s.TextDescription>
         </s.Container>
       </s.Container>
