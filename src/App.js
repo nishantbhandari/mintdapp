@@ -204,6 +204,15 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
+                 <StyledButton
+                      onClick={(e) => {
+                        location.href = "https://opensea.io/collection/halffacemfers";
+                      }}
+                    >
+                      OpenSea
+                    </StyledButton>
+    
+          <s.SpacerSmall />
         <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
