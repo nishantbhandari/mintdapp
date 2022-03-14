@@ -10,9 +10,9 @@
   "SYMBOL": "half face mfer",
   "MAX_SUPPLY": 7777,
   "WEI_COST": 20000000000000000,
-  "DISPLAY_COST": 0,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 111282,
   "MARKETPLACE": "OpenSea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/halffacemfers",
   "SHOW_BACKGROUND": true
 }
