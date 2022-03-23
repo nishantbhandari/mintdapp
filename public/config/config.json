@@ -14,5 +14,5 @@
   "GAS_LIMIT": 111282,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/halffacemfers",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
